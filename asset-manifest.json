@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Donyk-s/static/css/main.7acaea2f.css",
+    "main.js": "/Donyk-s/static/js/main.89072f0d.js",
+    "index.html": "/Donyk-s/index.html",
+    "main.7acaea2f.css.map": "/Donyk-s/static/css/main.7acaea2f.css.map",
+    "main.89072f0d.js.map": "/Donyk-s/static/js/main.89072f0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.89072f0d.js"
+  ]
+}
