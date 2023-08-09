@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Donyk-s/static/css/main.7acaea2f.css",
-    "main.js": "/Donyk-s/static/js/main.89072f0d.js",
+    "main.js": "/Donyk-s/static/js/main.aed6acb5.js",
     "index.html": "/Donyk-s/index.html",
     "main.7acaea2f.css.map": "/Donyk-s/static/css/main.7acaea2f.css.map",
-    "main.89072f0d.js.map": "/Donyk-s/static/js/main.89072f0d.js.map"
+    "main.aed6acb5.js.map": "/Donyk-s/static/js/main.aed6acb5.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.89072f0d.js"
+    "static/js/main.aed6acb5.js"
   ]
 }
