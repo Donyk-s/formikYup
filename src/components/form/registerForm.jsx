@@ -1,4 +1,4 @@
-export const registerForm = () => {
+export const RegisterForm = () => {
   return (
     <form autoComplete="off">
       <label htmlFor="name">

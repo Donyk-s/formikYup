@@ -1,4 +1,5 @@
-import { registerForm } from './form/registerForm';
+import React from 'react';
+import { RegisterForm } from './form/registerForm';
 export const App = () => {
   return (
     <div
@@ -12,7 +13,7 @@ export const App = () => {
       }}
     >
       React homework template
-      <registerForm />
+      <RegisterForm />
     </div>
   );
 };
